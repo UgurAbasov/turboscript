@@ -1,0 +1,1 @@
+Hello everyone. This is programming language same as typescript but compiled directly to machine code to fasten speed performance and compilation time also. Im soo happy for new contributors. I will create tasks in issues so you can contribute guys. Thank you for your attention!
