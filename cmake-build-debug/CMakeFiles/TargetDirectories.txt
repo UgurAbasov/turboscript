@@ -1,3 +1,0 @@
-/Users/ugurabbasov/Desktop/turboscript/cmake-build-debug/CMakeFiles/turboscript.dir
-/Users/ugurabbasov/Desktop/turboscript/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/ugurabbasov/Desktop/turboscript/cmake-build-debug/CMakeFiles/rebuild_cache.dir
